@@ -14,6 +14,8 @@ The process starts by converting the file into a database and using SQLite3 in P
 excel_readDB/
 │
 ├── README.md 
+├── Dockerfile
+├── requirements.txt  
 │
 ├── file_read/ 
 │   └── iris_example_data.xlsx
