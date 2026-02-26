@@ -9,6 +9,8 @@ The process starts by converting the file into a database and using SQLite3 in P
 
 ---
 
+docker pull ktph/excel-jupyter:latest
+
 ## 🗂️ Project Structure
 <pre>
 excel_readDB/
