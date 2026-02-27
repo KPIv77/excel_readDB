@@ -2,3 +2,4 @@ file_read/
 venv/
 __pycache__/
 .dockerignore
+*.ipynb_checkpoints
